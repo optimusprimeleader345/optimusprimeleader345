@@ -115,7 +115,7 @@
 
 | Project | Category | Tech | Links |
 |---|---|---|---|
-| **Sentinel AI** | Cybersecurity AI — threat detection, anomaly & deepfake detection | React, FastAPI, Python, AI APIs | [Code](https://github.com/optimusprimeleader345/Sentinel-AI) |
+| **Sentinel AI** | Cybersecurity AI — threat detection, anomaly & deepfake detection | React, FastAPI, Python, AI APIs | [Demo](https://sentinel-ai-ruby.vercel.app/) · [Code](https://github.com/optimusprimeleader345/Sentinel-AI) |
 | **Orion AI** | AI Engineering Assistant — code generation, debugging, repo analysis | React, FastAPI, Python, LLMs, Vector Search | [Demo](https://gemini-tau-taupe.vercel.app/) · [Code](https://github.com/optimusprimeleader345/Orion-AI) |
 
 <!-- Send me more and I'll add them here in the same format. -->
